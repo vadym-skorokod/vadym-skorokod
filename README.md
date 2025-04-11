@@ -14,7 +14,7 @@ const be = {
   ],
   role: 'Senior Software Engineer | Blockchain | ML',
   contact: {
-    website: '[https://begrant.io](https://bloq.com/)',
+    website: '(https://bloq.com/)',
     email: 'skoryivadym at gmail dot com',
     github: 'https://github.com/vadym-skorokod',
     linkedin: 'https://www.linkedin.com/in/',
