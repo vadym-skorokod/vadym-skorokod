@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-# 👋 Hi, I'm **Vadym Skorokhod or Be - nothingrandom**    
+# 👋 Hi, I'm **Vadym or Be-nothingrandom**    
 
 
 # Full Stack Developer           
