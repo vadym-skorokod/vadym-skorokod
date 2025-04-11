@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Vadym or Be-nothingrandom**    
 
 
-# Full Stack Developer           
+# Senior Software Engineer | Blockchain | ML           
 
 
 <p style="font-size: 29px; margin-top: 15px; font-weight: bold;">    
