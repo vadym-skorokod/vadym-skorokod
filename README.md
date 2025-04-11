@@ -109,17 +109,6 @@ Each project represents my commitment to creating **scalable, user-centered solu
 
 ---
 
-## 🌐 **Let's Connect!**  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaibatonya-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ShaiBatonya">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
 
 ## 🎯 **What Drives Me**  
 For me, coding is more than writing functional code—it's about **creating tools that make a difference**.  
